@@ -39,12 +39,6 @@ This project explores a dataset of over 15,000 LEGO sets released from the 1950s
 
 ## 📷 Dashboard Preview
 ![LEGO Dashboard](https://raw.githubusercontent.com/moatzm1997/LEGO-Sets/main/LEGODashboard.png)
-> Replace with your actual dashboard image
-
----
-
-## 🔗 Live Report
-[Click here to view the Power BI Dashboard](https://github.com/moatzm1997/LEGO-Sets/blob/ae68cc24f62d16e3203dec29657c33ec358c6a36/LEGO%20Sets%20Overview.png)
 
 ---
 
